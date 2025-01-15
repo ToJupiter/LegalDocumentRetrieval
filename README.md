@@ -7,6 +7,7 @@
 [![Mô tả tiếng Việt](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png)](https://github.com/ToJupiter/LegalDocumentRetrieval/blob/main/README_VN.md)
 
 **Kaggle Notebook:** [Kaggle](https://www.kaggle.com/code/hctingnht/ldr24-soict)
+
 **Notebook only can be found here:** [Notebook Only](https://github.com/ToJupiter/LegalDocumentRetrieval/blob/main/ldr24_soict_akasuki.ipynb)
 
 
