@@ -2,6 +2,8 @@
 
 [![Status](https://img.shields.io/badge/Status-In%20Progress-green)](https://shields.io/)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
+
+**Mô tả tiếng Việt:** 
 [![Mô tả tiếng Việt](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png)](https://github.com/ToJupiter/LegalDocumentRetrieval/blob/main/README_VN.md)
 
 ## ✨ **Design Idea**
