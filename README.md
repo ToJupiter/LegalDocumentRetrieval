@@ -6,6 +6,11 @@
 **Mô tả tiếng Việt:** 
 [![Mô tả tiếng Việt](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png)](https://github.com/ToJupiter/LegalDocumentRetrieval/blob/main/README_VN.md)
 
+**Kaggle Notebook:** [Kaggle](https://www.kaggle.com/code/hctingnht/ldr24-soict)
+
+For now, the Kaggle Notebook should contain all of needed components for implementation. A documentation could be provided in the future to make the most use of the project. Stay tuned!
+
+
 ## ✨ **Design Idea**
 
 **🎯 Task:** Retrieve relevant legal documents related to a query from a given corpus.
@@ -53,3 +58,11 @@ Combine the power of two open-source Vietnamese language models:
         🔟
 
 ---
+## 🌟 Credits
+
+| Role                          | Contributor(s)                 |
+| ----------------------------- | ------------------------------ |
+| **💻 Model Design** |   [Phan Hoang Hai](https://github.com/ToJupiter), [Dang Phuong Nam](https://github.com/fdv45fs) |
+| **🗄️ Implementation**                 | [Phan Hoang Hai](https://github.com/ToJupiter)|
+
+We hope you enjoy! If you have any questions or feedback, don't hesitate to reach out! 😊

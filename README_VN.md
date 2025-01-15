@@ -3,6 +3,10 @@
 [![Status](https://img.shields.io/badge/Status-In%20Progress-green)](https://shields.io/)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 
+**Kaggle Notebook:** [Kaggle](https://www.kaggle.com/code/hctingnht/ldr24-soict)
+
+Tại thời điểm hiện tại, các thành phần cần thiết cho việc chạy notebook - dataset, các file Input/Output đã đều có trong Kaggle. Tài liệu hướng dẫn chi tiết sẽ có thể được viết trong tương lai.
+
 ## ✨ **Ý tưởng thiết kế**
 
 **🎯 Nhiệm vụ:** Tìm kiếm văn bản pháp luật liên quan đến một truy vấn trong kho dữ liệu cho trước.
@@ -50,3 +54,11 @@ Sử dụng hai mô hình ngôn ngữ tiếng Việt mã nguồn mở:
         🔟
 
 ---
+## 🌟 Nhóm chúng mình
+
+| Role                          | Contributor(s)                 |
+| ----------------------------- | ------------------------------ |
+| **💻 Thiết kế mô hình** |   [Phan Hoang Hai](https://github.com/ToJupiter), [Dang Phuong Nam](https://github.com/fdv45fs) |
+| **🗄️ Thực hiện**                 | [Phan Hoang Hai](https://github.com/ToJupiter)|
+
+Xin cảm ơn và rất mong được ghi nhận đóng góp của các bạn 😊
