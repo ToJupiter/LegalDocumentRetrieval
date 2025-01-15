@@ -1,7 +1,7 @@
 # LegalDocumentRetrieval
 Team Akasuki - SoICT Hackathon 2024 
 
-# 🇺🇸 Akatsuki - SoICT Hackathon 2024 Solution: Legal Document Retrieval
+# Team Akasuki - SoICT Hackathon 2024 Solution: Legal Document Retrieval
 
 [![Status](https://img.shields.io/badge/Status-In%20Progress-green)](https://shields.io/)
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
