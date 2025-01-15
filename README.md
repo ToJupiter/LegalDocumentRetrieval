@@ -10,7 +10,7 @@
 
 **🎯 Task:** Retrieve relevant legal documents related to a query from a given corpus.
 
-**🤝 Team:** Akatsuki
+**🤝 Team:** Akasuki
 
 ### 🚀 **Solution Approach**
 
